@@ -54,7 +54,8 @@ IBOutlets allow us to map interface builder items to Objective-C variables. IBAc
 -(IBAction)buttonPressed;
 @end
 ```
-We can then go into the interface builder inspector and connect both the outlet and the action to a real object. Check out the Hello, World! project on GitHub to see how we can use these objects to create a small interactive app.
+We can then go into the interface builder inspector and connect both the outlet and the action to a real object. Check out the Hello, World! project on GitHub to see how we can use these objects to create a small interactive app. To see all of the methods that can be used with a particular component (UILabel, UIButton, UITextField, etc.) just do a google search for the component and check out its listing in the Apple Reference Docs.
 
 ### Useful Links
-[]()
+[UIKit Framework Reference](https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIKit_Framework/)
+[RyRy's Objective-C Tutorials](http://rypress.com/tutorials/objective-c/index)
